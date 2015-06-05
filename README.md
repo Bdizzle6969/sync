@@ -1,3 +1,6 @@
+This is a customized fork of the sync project by https://github.com/calzoneman.  Mainly this is a place for me to mess around with experimental stuff and learn more about node and webRTC.
+
+
 Read before submitting an issue: https://github.com/calzoneman/sync/wiki/Reporting-an-Issue
 ===========================================================================================
 
